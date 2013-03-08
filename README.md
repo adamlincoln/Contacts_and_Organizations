@@ -1,3 +1,5 @@
+[![Build Status](http://ec2-23-20-64-21.compute-1.amazonaws.com/job/npe01_unmanaged/badge/icon)](http://ec2-23-20-64-21.compute-1.amazonaws.com/job/npe01_unmanaged/)
+
 Nonprofit Starter Pack - Contacts & Organizations
 =================================================
 
