@@ -35,5 +35,3 @@ Meta
 ----
 
 Released under the [BSD license](http://www.opensource.org/licenses/BSD-3-Clause).
-
-CumulusCI Test
